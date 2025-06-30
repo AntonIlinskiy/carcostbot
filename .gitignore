@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PyCharm/VSCode
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# dotenv
+.env
+
+# WebDriver cache
+.wdm/
+
+# macOS, Windows
+.DS_Store
+Thumbs.db
